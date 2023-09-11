@@ -16,3 +16,7 @@ The Exam requirment :
 - Test Resault Report
 - ScreenShot
 - [Code and resault Video](https://youtu.be/R6C5GsfcwZo)
+
+
+## Exam Score
+![image](https://github.com/Razanfaisal/Software-QA-Automationtesting-LEGALZOOM-Website/assets/112784035/bf4b455f-9d9b-4736-ab97-4381b08693f4)
